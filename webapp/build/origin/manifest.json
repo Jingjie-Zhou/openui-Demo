@@ -14,7 +14,7 @@
 			}
 		},
 		"config": {
-			"serverHost": "http://localhost:50000"
+			"serverHost":"/manufacturing-app"
 		},
 		"rootView": {
 			"viewName": "sap.ui.demo.todo.view.App",
